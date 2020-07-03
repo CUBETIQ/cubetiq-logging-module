@@ -10,7 +10,7 @@ dependencyManagement {
     }
 }
 
-group 'com.cubetiqs'
+group 'com.cubetiqs.libra'
 version '1.0-SNAPSHOT'
 
 repositories {
